@@ -16,11 +16,13 @@
   }
   
   .login-form h2 {
+    text-align: left;
     margin-bottom: 10px;
     font-size: 24px;
   }
   
   .login-form h3 {
+    text-align: left;
     margin-bottom: 20px;
     font-size: 18px;
     color: #666;

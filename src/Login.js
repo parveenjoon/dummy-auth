@@ -30,8 +30,8 @@ const Login = () => {
   return (
     <div className="login-container">
       <div className="login-form">
-        <h2>Welcome back! 👋</h2>
-        <h3>Sign in to your account</h3>
+        <h3>Welcome back! 👋</h3>
+        <h2>Sign in to your account</h2>
         <form onSubmit={handleLogin}>
           <div className="form-group">
             <label>Your email</label>
