@@ -54,9 +54,9 @@ const Login = () => {
           <button type="submit">CONTINUE</button>
         </form>
         {error && <p className="error">{error}</p>}
-        <a href="#" className="forgot-password">Forgot your password?</a>
+        <a href="/forgot-password">Forgot your password?</a>
         <p>
-          Don't have an account? <a href="#">Sign up</a>
+          Don't have an account? <a href="/sign-up">Sign up</a>
         </p>
       </div>
     </div>
